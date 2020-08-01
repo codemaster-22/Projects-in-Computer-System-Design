@@ -1,3 +1,6 @@
 [submodule "VirtualMachine"]
 	path = VirtualMachine
 	url = https://github.com/codemaster-22/VirtualMachine.git
+[submodule "Compiler"]
+	path = Compiler
+	url = https://github.com/codemaster-22/Compiler.git
