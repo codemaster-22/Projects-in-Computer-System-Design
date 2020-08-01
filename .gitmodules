@@ -1,0 +1,3 @@
+[submodule "VirtualMachine"]
+	path = VirtualMachine
+	url = https://github.com/codemaster-22/VirtualMachine.git
